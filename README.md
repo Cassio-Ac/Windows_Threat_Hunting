@@ -30,7 +30,7 @@ This script is designed to gather system information from Windows environments. 
 
 At the end of the script execution, the folder structure should look as follows:
 
-![Directory Structure](./img/diretorio_colect.png)
+![Directory Structure](./diretorio_colect.png)
 
 ## Recommendations
 ### Pre-Mission Preparations
